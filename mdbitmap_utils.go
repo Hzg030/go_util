@@ -1,4 +1,4 @@
-package scope_filter
+package my_utils
 
 import (
 	"reflect"
